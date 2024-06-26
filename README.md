@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
+
 -->
 ## Hi there 👋
 
 - Hello, I am coder-kimbell
-- ![](https://visitor-badge.glitch.me/badge?page_id=coder-kimbell.readme)
+- ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
 
 ## Tags
 
