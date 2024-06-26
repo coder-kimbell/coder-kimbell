@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - Hello, I am coder-kimbell
 - ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
-- [![Travis](https://img.shields.io/badge/CSDN-阿钟-brightgreen.svg)](http://blog.csdn.net/a_zhon)
+- [![Travis](https://img.shields.io/badge/kimbell`s blog-my blog-brightgreen.svg)](https://kimbell.top)
 
 
 
