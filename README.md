@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Some Statistics About Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=coder-kimbell&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=coder-kimbell&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/coder-kimbell/github-readme-stats)
 
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white&logoSize=auto&labelColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white&logoSize=auto&labelColor=%232496ED)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-kimbell&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-kimbell&layout=compact&exclude_repo=coder-kimbell.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
