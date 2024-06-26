@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ## Tools
 
-![Static Badge](https://img.shields.io/badge/VsCode-%E7%BC%96%E8%BE%91%E5%99%A8-blue?logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23111111)
-![Static Badge](https://img.shields.io/badge/IDEA-python-blue?logo=python&logoColor=%233776AB&labelColor=%23111111)
+![Static Badge](https://img.shields.io/badge/VsCode-%E7%BC%96%E8%BE%91%E5%99%A8-blue?logo=visualstudiocode&logoColor=%23007ACC&labelColor=white)
+![Static Badge](https://img.shields.io/badge/IDEA-python-blue?logo=python&logoColor=%233776AB&labelColor=white)
+
 
 
 
