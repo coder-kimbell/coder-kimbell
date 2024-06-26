@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-![Static Badge](https://img.shields.io/badge/IDEA-Python3.7-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
+![Static Badge](https://img.shields.io/badge/Python-3.7-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white&labelColor=%231572B6)
