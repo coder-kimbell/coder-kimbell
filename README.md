@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/VsCode-%E7%BC%96%E8%BE%91%E5%99%A8-blue?logo=visualstudiocode&logoColor=%23007ACC&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/IDEA-python-blue?logo=python&logoColor=%233776AB&labelColor=white)
 ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
+![Static Badge](https://img.shields.io/badge/Windows-10-%230078D6?logo=Windows10&logoSize=auto)
+
 
 ![Static Badge](https://img.shields.io/badge/Python-3.7-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
 ![Static Badge](https://img.shields.io/badge/JAVA-8-red?logoSize=auto&labelColor=%23111111)
