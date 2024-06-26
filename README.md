@@ -39,6 +39,13 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/IDEA-Python3.7-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white&labelColor=%23F05032)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white&labelColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white&labelColor=%23777BB4)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white&logoSize=auto&labelColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white&logoSize=auto&labelColor=%232496ED)
+
 
 
 
