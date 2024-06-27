@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there I am coder-kimbell 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=你好+,+我是coder-kimbell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=你好,我是coder-kimbell)](https://git.io/typing-svg)
 
 ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
 
