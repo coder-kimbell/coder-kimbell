@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there I am coder-kimbell 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=你好,我是coder-kimbell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD%2C%E6%88%91%E6%98%AFcoder-kimbell%E3%80%82;%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C%2C;%E4%B8%8D%E7%A7%AF%E5%B0%8F%E6%B5%81%E6%97%A0%E4%BB%A5%E6%88%90%E6%B1%9F%E6%B5%B7%E3%80%82;If+you+don't+build+a+small+stream%2C+;you+can't+build+a+river.)](https://git.io/typing-svg)
 
 ![coder-kimbell](https://komarev.com/ghpvc/?username=coder-kimbell)
 
