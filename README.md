@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Windows-10-%230078D6?logo=Windows10&logoSize=auto)
 
 
-![Static Badge](https://img.shields.io/badge/Python-3.7-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
+![Static Badge](https://img.shields.io/badge/Python-3-%233776AB?logo=python&logoColor=%233776AB&labelColor=%23111111)
 ![Static Badge](https://img.shields.io/badge/JAVA-8-red?logoSize=auto&labelColor=%23111111)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white&labelColor=%23F05032)
